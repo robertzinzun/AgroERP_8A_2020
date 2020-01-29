@@ -13,5 +13,6 @@ package vistas;
 public class main {
     public static void main(String[] args) {
         System.out.println("Hola mundo");
+        System.out.println("Esto es una prueba para el GITHUB");
     }
 }
