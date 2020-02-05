@@ -14,5 +14,6 @@ public class main {
     public static void main(String[] args) {
         System.out.println("Hola mundo");
         System.out.println("Esto es una prueba para el GITHUB");
+        System.out.println("La suma de:3+2 es:"+(3+2));
     }
 }
