@@ -13,4 +13,8 @@ public class conexion {
     public conexion(){
         System.out.println("Conectando con la BD....");
     }
+    public String getMsg(){
+        return "hola";
+    }
+        
 }
